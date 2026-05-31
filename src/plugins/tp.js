@@ -1,4 +1,3 @@
-// මෙතන තියෙන්නේ ප්‍රෑන්ක් එකට අදාළ මතකයන් තියාගන්න තැන් දෙකක්
 const myTypingState = new Map();
 const killSwitches = new Map();
 
