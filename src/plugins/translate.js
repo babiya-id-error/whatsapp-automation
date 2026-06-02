@@ -1,8 +1,9 @@
 module.exports = {
     name: 'translate',
-    execute: async (sock, msg) => {
+    handleMessage: async (sock, msg) => {
         const textMessage = msg.message?.conversation || msg.message?.extendedTextMessage?.text || '';
         const jid = msg.key.remoteJid;
+        if (!msg.key.fromMe) return;
 
         if (textMessage.startsWith('.en ')) {
             const textToTranslate = textMessage.replace('.en ', '').trim();
