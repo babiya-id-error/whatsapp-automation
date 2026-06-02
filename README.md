@@ -40,23 +40,23 @@ sudo apt-get install -y nodejs
 
 ```bash
 git clone https://github.com/babiya-id-error/whatsapp-automation
-
-
 ```
-
 
 # Enter the directory
 
-```bash```
+```bash
 cd whatsapp-automation
+```
 
 # Install dependencies
-```bash```
+```bash
 npm install
+```
 
 # Start the bot
 
-```bash```
+```bash
 node bot.js
+```
 
 
