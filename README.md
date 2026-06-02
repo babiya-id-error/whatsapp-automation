@@ -1,4 +1,8 @@
-# 🤖 BABIYA-MD WHATSAPP BOT
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=🤖+BABIYA-MD+WHATSAPP+BOT;⚡+FAST+%26+RELIABLE;📝+AUTO+TRANSLATE+%26+EDIT;🎙️+RECORDING+PRANK+ENABLED" alt="Typing SVG" />
+  </a>
+</p>
 
 
 <img width="736" height="414" alt="ec89c5d1-ddcf-4498-a9f7-3dd95b0bb3ed" src="https://github.com/user-attachments/assets/405299b6-54f6-45b1-9ab0-c0fa96212bc8" />
