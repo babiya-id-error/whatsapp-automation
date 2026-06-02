@@ -61,8 +61,5 @@ node bot.js
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=2000&color=FF0000&center=true&vCenter=true&width=800&lines=STAY+SECURE+STAY+ANONYMOUS+%7C+BUILT+BY+BABIYA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=2000&color=FF0000&center=true&vCenter=true&width=800&lines=BUILT+WITH+PASSION+BY+BABIYA+%7C+HAPPY+AUTOMATING" alt="Typing SVG" />
 </p>
-
-
-
