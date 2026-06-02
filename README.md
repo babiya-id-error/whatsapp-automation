@@ -48,13 +48,4 @@ npm install
 # Start the bot
 node bot.js
 
-whatsapp-automation/
-├── src/
-│   └── plugins/        # Custom features and commands
-│       ├── alive.js
-│       ├── translate.js
-│       └── tp.js
-├── status_auth_info/   # Authentication and session data
-├── bot.js              # Main entry point
-└── package.json        # Dependencies and scripts
 
