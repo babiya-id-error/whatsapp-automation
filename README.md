@@ -38,8 +38,11 @@ sudo apt-get install -y nodejs
 
 # Clone the repository
 
-```bash```
+```bash
 git clone https://github.com/babiya-id-error/whatsapp-automation
+
+
+```
 
 
 # Enter the directory
