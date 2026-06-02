@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=🤖+BABIYA-MD+WHATSAPP+BOT;⚡+FAST+%26+RELIABLE;📝+AUTO+TRANSLATE+%26+EDIT;🎙️+RECORDING+PRANK+ENABLED" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=🤖+BABIYA-MD+WHATSAPP+BOT;⚡+FAST+AND+RELIABLE;📝+AUTO+TRANSLATE+AND+EDIT;🎙️+RECORDING+PRANK+ENABLED" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/405299b6-54f6-45b1-9ab0-c0fa96212bc8" width="736" />
 </p>
