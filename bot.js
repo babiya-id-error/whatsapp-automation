@@ -11,7 +11,7 @@ const killSwitches = new Map();
 const subscribedJids = new Set(); 
 
 async function startStatusBot() {
-    const { state, saveCreds } = await useMultiFileAuthState('status_auth');
+    const { state, saveCreds } = await useMultiFileAuthState('status_auth_info');
 
     const sock = makeWASocket({
         auth: state,
